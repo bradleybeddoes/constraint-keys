@@ -1,0 +1,3 @@
+Automatically extract the set of keys used to render i18n error messages for constraints applied to domain classes within a grails project. Makes available as messages-domain.properties in projects i18n directory.
+
+See more at: http://bradleybeddoes.com/2010/11/grails-constraint-keys-plugin/
